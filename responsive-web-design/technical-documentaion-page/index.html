@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Documentation</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>JS Documentation</header>
+      <a class="nav-link" href="#Introduction">Introduction</a>
+      <a class="nav-link" href="#Variables">Variables</a>
+      <a class="nav-link" href="#Data_Types">Data Types</a>
+      <a class="nav-link" href="#Functions">Functions</a>
+      <a class="nav-link" href="#Loops">Loops</a>
+    </nav>
+
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <p>
+          JavaScript is a cross-platform, object-oriented scripting language.
+        </p>
+        <p>
+          It is a small and lightweight language. Inside a host environment,
+          JavaScript can be connected to the objects of its environment to
+          provide programmatic control over them.
+        </p>
+        <code>function greet(name) { return "Hello " + name; }</code>
+        <ul>
+          <li>Client-side JavaScript</li>
+          <li>Server-side JavaScript</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Variables">
+        <header>Variables</header>
+        <p>Variables are containers for storing data values.</p>
+        <p>In JavaScript, you can declare variables using:</p>
+        <code>let x = 5; const y = "Hello";</code>
+        <ul>
+          <li>var - function scope</li>
+          <li>let - block scope</li>
+          <li>const - block scope, immutable</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Data_Types">
+        <header>Data Types</header>
+        <p>JavaScript has 8 basic data types:</p>
+        <code>typeof "John" // Returns "string"</code>
+        <p>Primitive types:</p>
+        <ul>
+          <li>String</li>
+          <li>Number</li>
+          <li>Boolean</li>
+          <li>Null</li>
+          <li>Undefined</li>
+        </ul>
+        <p>And complex types:</p>
+        <ul>
+          <li>Object</li>
+          <li>Array</li>
+          <li>Function</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Functions">
+        <header>Functions</header>
+        <p>
+          A function is a block of code designed to perform a particular task.
+        </p>
+        <code>function square(number) { return number * number; }</code>
+        <p>Functions can be declared in multiple ways:</p>
+        <ul>
+          <li>Function declarations</li>
+          <li>Function expressions</li>
+          <li>Arrow functions</li>
+        </ul>
+        <p>Functions are first-class citizens in JavaScript.</p>
+      </section>
+
+      <section class="main-section" id="Loops">
+        <header>Loops</header>
+        <p>Loops can execute a block of code multiple times.</p>
+        <code>for (let i = 0; i < 5; i++) { console.log(i); }</code>
+        <p>Different types of loops:</p>
+        <ul>
+          <li>for - loops through a block of code a number of times</li>
+          <li>while - loops through a block while a condition is true</li>
+        </ul>
+        <p>
+          Always ensure loops have a valid exit condition to prevent infinite
+          loops.
+        </p>
+      </section>
+    </main>
+  </body>
+</html>
