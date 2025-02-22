@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GuitarWorks | Premium Instruments</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header id="header">
+      <img
+        src="https://example.com/logo.png"
+        alt="Company Logo"
+        id="header-img"
+        width="150"
+      />
+      <nav id="nav-bar">
+        <a class="nav-link" href="#features">Features</a>
+        <a class="nav-link" href="#video">Demo</a>
+        <a class="nav-link" href="#pricing">Pricing</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section id="features">
+        <div class="feature-card">
+          <h2>Premium Materials</h2>
+          <p>
+            Our guitars use the finest tonewoods sourced from sustainable
+            forests.
+          </p>
+        </div>
+        <div class="feature-card">
+          <h2>Handcrafted Excellence</h2>
+          <p>Each instrument is meticulously crafted by master luthiers.</p>
+        </div>
+        <div class="feature-card">
+          <h2>Quality Assurance</h2>
+          <p>
+            Every guitar undergoes rigorous quality testing before shipping.
+          </p>
+        </div>
+      </section>
+
+      <section id="how-it-works">
+        <iframe
+          id="video"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/6sb1_h6vRZI"
+          title="Product Demo"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </section>
+
+      <section id="pricing">
+        <div class="price-tier">
+          <h3>Starter</h3>
+          <p class="price">$599</p>
+          <ul>
+            <li>Solid Top</li>
+            <li>Mahogany Neck</li>
+            <li>1 Year Warranty</li>
+          </ul>
+        </div>
+        <div class="price-tier">
+          <h3>Professional</h3>
+          <p class="price">$1299</p>
+          <ul>
+            <li>Solid Wood Construction</li>
+            <li>Ebony Fretboard</li>
+            <li>5 Year Warranty</li>
+          </ul>
+        </div>
+      </section>
+
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Enter your email for updates"
+          required
+        />
+        <input type="submit" id="submit" value="Get Started" />
+      </form>
+    </main>
+  </body>
+</html>
