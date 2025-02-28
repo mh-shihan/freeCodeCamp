@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palindrome Checker</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+      }
+
+      .container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        width: 100%;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+
+      .input-group {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 20px;
+      }
+
+      #text-input {
+        flex: 1;
+        padding: 12px;
+        font-size: 16px;
+        border: 2px solid #ddd;
+        border-radius: 5px;
+      }
+
+      #check-btn {
+        padding: 12px 24px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s;
+      }
+
+      #check-btn:hover {
+        background-color: #45a049;
+      }
+
+      #result {
+        font-size: 18px;
+        margin-top: 20px;
+        padding: 15px;
+        border-radius: 5px;
+        background-color: #f8f9fa;
+        color: #333;
+      }
+
+      #result::first-letter {
+        text-transform: capitalize;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Palindrome Checker</h1>
+      <div class="input-group">
+        <input type="text" id="text-input" placeholder="Enter text to check" />
+        <button id="check-btn">Check</button>
+      </div>
+      <div id="result"></div>
+    </div>
+
+    <script>
+      document
+        .getElementById("check-btn")
+        .addEventListener("click", function () {
+          const input = document.getElementById("text-input").value;
+          const resultElement = document.getElementById("result");
+
+          if (!input.trim()) {
+            alert("Please input a value");
+            return;
+          }
+
+          const isPalindrome = checkPalindrome(input);
+          resultElement.textContent = `${input} ${
+            isPalindrome ? "is a palindrome" : "is not a palindrome"
+          }`;
+        });
+
+      function checkPalindrome(str) {
+        const cleaned = str.replace(/[^a-z0-9]/gi, "").toLowerCase();
+        const reversed = cleaned.split("").reverse().join("");
+        return cleaned === reversed;
+      }
+    </script>
+  </body>
+</html>

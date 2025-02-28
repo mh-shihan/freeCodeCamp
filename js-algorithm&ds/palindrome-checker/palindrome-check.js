@@ -1,7 +1,7 @@
 function handleCheckPalindrome(e) {
   e.preventDefault();
   const inputField = document.getElementById("text-input");
-  const inputValue = inputField.value.toLowerCase();
+  const inputValue = inputField.value.toLowerCase().replace(/[^a-z0-9]/g, "");
 
   if (!inputValue.trim()) {
     alert("Please input a value");
@@ -13,9 +13,6 @@ function handleCheckPalindrome(e) {
   let isPalindrome = true;
 
   while (start <= end) {
-    while (inputValue[start] < "a" || inputValue[start] > "z") start++;
-    while (inputValue[end] < "a" || inputValue[end] > "z") end--;
-
     if (inputValue[start++] !== inputValue[end--]) {
       isPalindrome = false;
       break;
