@@ -17,3 +17,8 @@ You can access the Technical Documentaion Page here: [Click Here](https://mh-shi
 # Tribute Page Project
 ## Website URL
 You can access the Tribute Page Project here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/responsive-web-design/tribute-page-project/index.html)
+
+# Palindrome Checker
+## Website URL
+You can access the Palidrome Checker here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/js-algorithm-and-DS/palindrome-checker/palindrome-checker.html)
+
