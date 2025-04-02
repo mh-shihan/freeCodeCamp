@@ -20,7 +20,7 @@ You can access the Survey Form Project here: [Click Here](https://mh-shihan.gith
 
 ## Website URL
 
-You can access the Technical Documentaion Page here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/responsive-web-design/technical-documentaion-page/index.html)
+You can access the Technical Documentation Page here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/responsive-web-design/technical-documentaion-page/index.html)
 
 # Tribute Page Project
 
