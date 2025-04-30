@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](hhttps://codepen.io/Mahmudul-Hasan-Shihan/full/ByymXXX)
+👉 [Click here to view the live project](https://codepen.io/Mahmudul-Hasan-Shihan/full/ByymXXX)
 
 # 🎲 Random Quote Machine
 
