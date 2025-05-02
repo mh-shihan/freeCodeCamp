@@ -1,0 +1,36 @@
+.form-range::-webkit-slider-thumb {
+  background: #f9bc60;
+}
+.form-range::-moz-range-thumb {
+  background: #f9bc60;
+}
+
+.form-range::-ms-thumb {
+  background: #f9bc60;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .form-range::-webkit-slider-thumb {
+    -webkit-transition: none;
+    transition: none;
+  }
+}
+
+.form-range::-webkit-slider-thumb:active {
+  background-color: #004643;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 0.5rem;
+  color: transparent;
+  cursor: pointer;
+  background-color: #004643;
+  border-color: transparent;
+  border-radius: 1rem;
+}
+
+.form-check-input:checked {
+  background-color: #f9bc60 !important;
+  border-color: black;
+}
