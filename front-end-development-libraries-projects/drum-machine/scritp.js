@@ -264,12 +264,12 @@ const Drum = () => {
       React.createElement(
         "a",
         {
-          href: "https://ardifjar443.github.io",
+          href: "https://github.com/mh-shihan",
           target: "_black",
           className: "text-decoration-none",
           style: { color: "#004643" },
         },
-        " ArdiFjar443"
+        " Mahmudul Hasan Shihan"
       ),
       " "
     )
