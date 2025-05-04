@@ -1,3 +1,5 @@
+# 🎲 Random Quote Machine
+
 ## 📸 Preview
 
 ![Random Quote Machine Screenshot](random-quote-machine.png) <!-- Replace with actual screenshot if available -->
@@ -5,8 +7,6 @@
 ## 🔗 Live Demo
 
 👉 [Click here to view the live project](https://codepen.io/Mahmudul-Hasan-Shihan/full/ByymXXX)
-
-# 🎲 Random Quote Machine
 
 This is a simple and interactive Random Quote Machine built as part of the [FreeCodeCamp Front End Development Certification](https://www.freecodecamp.org/learn). The application fetches and displays random quotes to inspire and entertain users. It also includes a feature to share quotes directly on Twitter.
 
