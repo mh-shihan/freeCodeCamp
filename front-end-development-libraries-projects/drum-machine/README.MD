@@ -1,3 +1,5 @@
+# 🥁 Drum Machine
+
 ## 📸 Preview
 
 ![Drum Machine Screenshot](drum-machine.png) <!-- Replace with actual screenshot if available -->
@@ -5,8 +7,6 @@
 ## 🔗 Live Demo
 
 👉 [Click here to view the live project](https://codepen.io/Mahmudul-Hasan-Shihan/full/PwwOMOx) <!-- Replace with your actual link -->
-
-# 🥁 Drum Machine
 
 This is a fun and interactive **Drum Machine** project built as part of the [FreeCodeCamp Front End Development Libraries Certification](https://www.freecodecamp.org/learn). The application allows users to play drum sounds using clickable pads or keyboard keys, delivering a satisfying audio and visual experience.
 
