@@ -56,11 +56,11 @@ Ini adalah **teks tebal**.
       /*#__PURE__*/ React.createElement(
         "a",
         {
-          href: "https://ardifjar443.github.io",
+          href: "https://github.com/mh-shihan",
           target: "_black",
           className: "text-decoration-none text-dark",
         },
-        "Ardifjar443"
+        "Mahmudul Hasan Shihan"
       )
     ) /*#__PURE__*/,
     React.createElement(
