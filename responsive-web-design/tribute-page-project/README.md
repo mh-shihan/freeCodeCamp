@@ -1,5 +1,5 @@
-# Technical Documentation Page
+# Tribute Page Project
 
 ## Website URL
 
-You can access the Technical Documentation Page here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/responsive-web-design/technical-documentaion-page/index.html)
+You can access the Tribute Page Project here: [Click Here](https://mh-shihan.github.io/freeCodeCamp/responsive-web-design/tribute-page-project/index.html)
