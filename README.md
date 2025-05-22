@@ -43,16 +43,16 @@ Each course includes **five projects** that demonstrate my understanding of the 
 > Focused on HTML, CSS, Flexbox, Grid, and building responsive layouts.
 
 1. **Tribute Page** – A simple tribute page for a famous person.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/responsive-web-design/tribute-page-project)
 
 2. **Survey Form** – A responsive form with various input types.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/responsive-web-design/survey-form-project)
 
 3. **Product Landing Page** – A landing page for a fake product.  
    📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/responsive-web-design/produc-landing-page)
 
 4. **Technical Documentation Page** – Documentation for a fictional tech.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/responsive-web-design/technical-documentaion-page)
 
 5. **Personal Portfolio** – A portfolio showcasing my web design projects.  
    📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/responsive-web-design/personal-portfolio)
