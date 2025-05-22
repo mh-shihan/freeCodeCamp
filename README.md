@@ -64,19 +64,19 @@ Each course includes **five projects** that demonstrate my understanding of the 
 > Covers ES6, regular expressions, recursion, algorithms, and object-oriented programming.
 
 1. **Palindrome Checker** – Checks if a string is a palindrome, ignoring punctuation and case.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/js-algorithm-and-DS/palindrome-checker)
 
 2. **Roman Numeral Converter** – Converts numbers into Roman numerals (1–3999).  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/js-algorithm-and-DS/roman-numerical-converter)
 
-3. **Caesars Cipher** – Implements ROT13 cipher for simple text encryption/decryption.  
-   📁 [GitHub Link]()
+3. **Pokemon Search App** – This is a simple Pokémon search app that allows users to search for Pokémon by name or ID.  
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/js-algorithm-and-DS/pok%C3%A9mon-search-app)
 
 4. **Telephone Number Validator** – Validates US phone numbers using regex.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/js-algorithm-and-DS/telephone-number-validator)
 
 5. **Cash Register** – Simulates a cash register with change return logic.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/js-algorithm-and-DS/cash-register-project)
 
 ---
 
