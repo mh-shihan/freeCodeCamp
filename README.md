@@ -85,19 +85,19 @@ Each course includes **five projects** that demonstrate my understanding of the 
 > Focuses on React, Redux, Bootstrap, jQuery, and front-end state management.
 
 1. **Random Quote Machine** – Displays random quotes and allows users to tweet them. Built with React.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/front-end-development-libraries-projects/random-quote-machine)
 
 2. **Markdown Previewer** – Live preview of Markdown text using React and Marked.js.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/front-end-development-libraries-projects/markdown-previewer)
 
 3. **Drum Machine** – Interactive drum pad app using React and keyboard events.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/front-end-development-libraries-projects/drum-machine)
 
 4. **JavaScript Calculator** – A fully functional calculator built using React.  
-   📁 [GitHub Link]()
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/front-end-development-libraries-projects/js-calculator)
 
-5. **Pomodoro Clock** – A timer app for Pomodoro sessions and breaks. Built using React.  
-   📁 [GitHub Link]()
+5. **25-5 Clock** – A timer app for Pomodoro sessions and breaks. Built using React.  
+   📁 [View on GitHub](https://github.com/mh-shihan/freeCodeCamp/tree/main/front-end-development-libraries-projects/25-5-clock)
 
 ---
 
